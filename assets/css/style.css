@@ -1,0 +1,6 @@
+.panel {
+  background-color: aqua;
+  width: calc(100vmin - 90vmin);
+  height: calc(100vmin - 90vmin);
+  margin: 5px;
+}
